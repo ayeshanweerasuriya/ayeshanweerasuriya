@@ -13,7 +13,5 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ayeshanweerasuriya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="ayeshan's GitHub streak"/>
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayeshanweerasuriya&theme=dark" alt="GitHub Streak" /></a>
 </p>
