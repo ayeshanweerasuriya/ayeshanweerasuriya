@@ -13,5 +13,5 @@
 <br>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayeshanweerasuriya&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayeshanweerasuriya&theme=dark&border_radius=4&mode=weekly" alt="GitHub Streak" /></a>
 </p>
