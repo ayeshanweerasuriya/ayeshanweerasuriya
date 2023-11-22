@@ -1,5 +1,7 @@
 <!--
+<h2 align="center">
   Interstellar dreamer, coding through the cosmos. 🚀 Exploring the byte-sized galaxies of code, one algorithm at a time. 🌌 #FutureCoder #SciFiEnthusiast
+</h2>
 -->
 
 ### Skills
