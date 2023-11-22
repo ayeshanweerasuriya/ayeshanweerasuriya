@@ -9,6 +9,7 @@
 -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,ai,java,kotlin,linkedin,mysql,nodejs,ps,php,postman,pr,py,react,stackoverflow,twitter,visualstudio,vscode,wordpress" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,ai,java,kotlin,LinkedIn" />
+   <img src="https://skillicons.dev/icons?i=mysql,nodejs,ps,php,postman,pr,py,react,stackoverflow,twitter,visualstudio,vscode,wordpress" />
+ />
 </p>
