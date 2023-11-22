@@ -9,7 +9,7 @@
 -->
 
 <p align="center">
-  <h2>### Skills</h2>
+  <h2>Skills</h2>
     <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,ai,java,kotlin,linkedin,mysql,nodejs,ps,php,postman,pr,py,react,stackoverflow,twitter,visualstudio,vscode,wordpress" />
   </a>
 </p>
