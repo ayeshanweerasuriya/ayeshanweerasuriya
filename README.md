@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Let's%20Make%20It%20Work!&style=style=flat&color=8A2BE2" alt="Star Badge"/>
+[![Animated Star Badge](https://img.shields.io/badge/%F0%9F%8C%9F-Let's%20Make%20It%20Work!-yellow?style=flat&logo=data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2216%22%20height=%2216%22%20viewBox=%220%200%2016%2016%22%3E%3Cg%20fill=%22none%22%20stroke=%22%23fff%22%20stroke-width=%222%22%3E%3Cpath%20d=%22M1%207l7-7%207%207-7%207-7-7%207%22/%3E%3C/g%3E%3C/svg%3E)](https://example.com)
+
 <a href="https://twitter.com/A_A_Weerasuriya" ><img src="https://img.shields.io/twitter/follow/A_A_Weerasuriya.svg?style=social" /> </a>
 <br>
 <br>
