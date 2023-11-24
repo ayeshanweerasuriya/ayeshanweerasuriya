@@ -18,5 +18,5 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/ayeshanweerasuriya"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayeshanweerasuriya&theme=github-dark&card_width=830" alt="GitHub Streak" /></a>
+<a href="https://github.com/ayeshanweerasuriya"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayeshanweerasuriya&theme=github-dark&card_width=840" alt="GitHub Streak" /></a>
 </p>
