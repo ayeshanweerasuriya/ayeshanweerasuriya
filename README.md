@@ -9,6 +9,8 @@
   Interstellar dreamer, coding through the cosmos. 🚀 Exploring the byte-sized galaxies of code, one algorithm at a time. 🌌 #FutureCoder #SciFiEnthusiast
 </p>
 
+<hr/>
+
 <p align="center">
   <img src="assets/surreal-landscape-with-planet.png" alt="Surreal Landscape with Planet">
 </p>
