@@ -12,3 +12,15 @@
 <p align="center">
   <img src="assets/surreal-landscape-with-planet.png" alt="Surreal Landscape with Planet">
 </p>
+
+<div align="center">
+  <a href="https://github.com/ayeshanweerasuriya">
+    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,ai,java,kotlin,linkedin,mysql,nodejs,ps,php,postman,pr,py,react,stackoverflow,twitter,visualstudio,vscode,codepen,blender,vue,wordpress" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/ayeshanweerasuriya"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayeshanweerasuriya&theme=github-dark&card_width=835" alt="GitHub Streak" /></a>
+</p>
