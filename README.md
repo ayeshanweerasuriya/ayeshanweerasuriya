@@ -24,5 +24,5 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/ayeshanweerasuriya"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayeshanweerasuriya&theme=github-dark&card_width=835" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayeshanweerasuriya&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700)](https://git.io/streak-stats)
 </p>
