@@ -9,15 +9,15 @@
 
 <hr/>
 
-<p align="center">
-  <img src="assets/surreal-landscape-with-planet.png" alt="Surreal Landscape with Planet">
-</p>
-
 <div align="center">
   <a href="https://github.com/ayeshanweerasuriya">
     <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,ai,java,kotlin,linkedin,mysql,nodejs,ps,php,postman,pr,py,react,stackoverflow,twitter,visualstudio,vscode,codepen,blender,vue,wordpress" />
   </a>
 </div>
+
+<p align="center">
+  <img src="assets/surreal-landscape-with-planet.png" alt="Surreal Landscape with Planet">
+</p>
 
 <br>
 
