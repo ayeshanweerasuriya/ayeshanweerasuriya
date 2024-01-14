@@ -24,5 +24,5 @@
 <br>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayeshanweerasuriya&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="GitHub Streak" /></a>
+<a href="https://github.com/ayeshanweerasuriya"><img src="https://streak-stats.demolab.com?user=ayeshanweerasuriya&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="GitHub Streak" /></a>
 </p>
