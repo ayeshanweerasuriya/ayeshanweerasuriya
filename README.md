@@ -21,8 +21,6 @@
   <img src="assets/surreal-landscape-with-planet.png" alt="Surreal Landscape with Planet">
 </p>
 
-<br>
-
 <p align="center">
 <a href="https://github.com/ayeshanweerasuriya"><img src="https://streak-stats.demolab.com?user=ayeshanweerasuriya&theme=highcontrast&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Streak" /></a>
 </p>
