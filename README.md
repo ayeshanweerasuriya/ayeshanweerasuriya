@@ -17,7 +17,7 @@
 
 <br>
 
-<p align="center"; width="400">
+<p align="center" width="400">
   <img src="assets/surreal-landscape-with-planet.png" alt="Surreal Landscape with Planet">
 </p>
 
