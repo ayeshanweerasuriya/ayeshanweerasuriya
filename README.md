@@ -7,7 +7,6 @@
   Interstellar dreamer, coding through the cosmos. 🌌 #FutureCoder #SciFiEnthusiast
 </p>
 
-<hr/>
 
 <div align="center">
   <a href="https://github.com/ayeshanweerasuriya">
