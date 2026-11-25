@@ -25,7 +25,7 @@ Currently exploring the intersection of **Software Engineering, AI, and DevOps**
 ### Currently working on
 
 - Building **LogSense AI** – an AI-assisted log analysis and monitoring project.
-- Exploring computer vision for railway crossing safety research.
+- Exploring computer vision.
 - Improving my knowledge of cloud infrastructure and DevOps.
 
 <br/>
